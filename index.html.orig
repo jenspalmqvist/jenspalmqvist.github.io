@@ -1,0 +1,199 @@
+
+
+<head>
+	<script type="text/javascript" src="sound-mouseover.js"></script>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<<<<<<< HEAD
+<div>
+	<h1>Mr Fluffy Bamboo Bear</h1>
+=======
+
+<div>	
+	<h1>Giant panda</h1>
+>>>>>>> 1f94f73b7e1b1f039c6bf91320da578a8dccb916
+
+<body>
+<img src="pandapopsicle.gif">
+	<p>
+		The giant panda also known as Mr Fluffy Bamboo Bear or simply panda, is a bear native to <a href="https://en.wikipedia.org/wiki/South_Central_China">South Central China</a>.
+	</p>
+	<p>
+		It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. 
+	</p>
+	<p>
+		Giant panda at the <a href="https://en.wikipedia.org/wiki/Ocean_Park_Hong_Kong">Ocean Park Hong Kong</a>:
+
+	</p>
+<<<<<<< HEAD
+	<a href="#"><img src="Grosser_Panda.jpg" onmouseover="this.src='Grosser_Panda_open.jpg'" onmouseout="this.src='Grosser_Panda.jpg'" border="0" alt=""/></a>
+	<p>
+		The name "Mr Fluffy Bamboo Bear is sometimes used to distinguish it from the red, lesser, panda. Though it belongs to the order <a href="https://en.wikipedia.org/wiki/Carnivora">Carnivora</a>, the giant panda is a <a href="https://en.wikipedia.org/wiki/Folivore">folivore</a>, with bamboo shoots and leaves making up more than 99% of its diet. 
+=======
+	
+	<a href="#"><img src="Grosser_Panda.jpg" onmouseover="playclip();this.src='Grosser_Panda_open.jpg'" onmouseout="this.src='Grosser_Panda.jpg'" border="0" alt=""/></a>
+	<p
+		The name "giant panda" is sometimes used to distinguish it from the red panda. Though it belongs to the order <a href="https://en.wikipedia.org/wiki/Carnivora">Carnivora</a>, the giant panda is a <a href="https://en.wikipedia.org/wiki/Folivore">folivore</a>, with bamboo shoots and leaves making up more than 99% of its diet. 
+>>>>>>> 1f94f73b7e1b1f039c6bf91320da578a8dccb916
+	</p>
+	<p>
+		Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents, or carrion. 
+	</p>
+	<p>
+		Panda cubs:
+	</p>
+	<img src=Panda-Gif.gif>
+	<p>
+		In captivity, they may receive honey, eggs, fish, yams, shrub leaves, oranges, or bananas along with specially prepared food.
+	</p>
+	<h2>Population chart</h2>
+	<table class="wikitable">
+	<tbody><tr>
+		<th>Year
+		</th>
+		<th>Wild
+		</th>
+		<th>Change
+		</th>
+		<th>Captivity
+		</th>
+		<th>Change
+		</th>
+		<th>Total
+		</th>
+		<th>Change
+		</th></tr>
+		<tr>
+		<td>1976
+		</td>
+		<td>1,000
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>1985
+		</td>
+		<td>800–1,200
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>1987
+		</td>
+		<td>&gt;1,000
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>1994
+		</td>
+		<td>1,200
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>1995
+		</td>
+		<td>1,000
+		</td>
+		<td>−200
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>2003
+		</td>
+		<td>1,596
+		</td>
+		<td>+596
+		</td>
+		<td>164
+		</td>
+		<td>n/a
+		</td>
+		<td>1,760
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>2012
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td>
+		<td>341
+		</td>
+		<td>+178
+		</td>
+		<td>n/a
+		</td>
+		<td>n/a
+		</td></tr>
+		<tr>
+		<td>2013
+		</td>
+		<td>1,864
+		</td>
+		<td>+268
+		</td>
+		<td>375
+		</td>
+		<td>+34
+		</td>
+		<td>2,239
+		</td>
+		<td>+479
+	</td></tr></tbody></table>
+
+	<h2>Biofuel</h2>
+	<p>
+		Microbes in panda waste are being investigated for their use in creating biofuels from bamboo and other plant materials.
+	</p>
+</div>
+
+</body>
+<audio>
+<source src="click.mp3">
+<source src="click.ogg">
+</audio>
+<div id="sounddiv"><bgsound id="sound"></div>

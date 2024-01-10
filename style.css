@@ -1,0 +1,69 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #0bd5e3;
+}
+div
+{
+	background-color: #ABCDEF;
+    margin: auto;
+    padding: 30;
+    width: 500;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #ff69b4;
+    border-style: solid;
+}
+
+h1
+{
+	font-size: 50px;
+	color: #fff;
+	background-color: #d893ed;
+	padding: 50px;
+	text-shadow: 0px 0px 30px white;
+}
+h2 
+{
+	color: #ff8afb;
+	text-shadow: 0px 0px 20px #fa1bf2;
+}
+p
+{
+	background-color: #b2ffb2;
+	border-color: #ff69b4;
+	border-width: 5px;
+	border-style: dotted;
+}
+img {
+    width:500;
+    height:auto;
+    margin: auto;
+}
+
+.wikitable {
+    background-color: #f8f9fa;
+    color: #222;
+    width: 500px;
+    margin: 1em 0;
+    border: 1px solid #000;
+
+}
+.wikitable > tr > th, .wikitable > * > tr > th {
+    background-color: #eaecf0;
+    text-align: center;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    text-align: center;;
+}
